@@ -4,7 +4,7 @@ I'm Chinazam C. Dennar from Canada, and I am a highly skilled DevOps/SRE Enginee
 
 Skills: PYTHON/JAVA/GO/SHELL/GITHUB-ACTION/AZURE-DEVOPS/DOCKER/GIT
 
-- 🔭 I’m currently working on this page. 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/T-Roar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/C.C. Dennar/)  
